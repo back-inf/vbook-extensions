@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "author": "Nahona",
-    "description": "Nahona"
+    "author": "Inf",
+    "description": "Inf"
   },
   "data": [
     {
       "name": "Mimihentai",
-      "author": "Nahona",
+      "author": "Inf",
       "path": "https://github.com/back-inf/vbook-extensions/blob/main/mimi.zip",
       "version": 2,
       "source": "https://mimimoe.moe/",
-      "icon": "https://mimihentai.com/logo.png",
+      "icon": "https://mimimoe.moe/logo.png",
       "description": "Đọc truyện trên trang Mimihentai",
       "type": "comic",
       "locale": "vi_VN",
