@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Nahona",
+    "description": "Nahona"
+  },
+  "data": [
+    {
+      "name": "Mimihentai",
+      "author": "Nahona",
+      "path": "https://github.com/SoulGodEve9x9/Vbook-ext/raw/refs/heads/Nahona/mimihentai.zip",
+      "version": 2,
+      "source": "https://mimimoe.moe/",
+      "icon": "https://mimihentai.com/logo.png",
+      "description": "Đọc truyện trên trang Mimihentai",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    }
+  ]
+}
